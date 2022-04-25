@@ -1,0 +1,23 @@
+Imperative Versus Declarative
+
+i=> Declarative programming is a style of programming where applications
+are structured in a way that prioritizes describing what should happen over defining
+how it should happen.
+
+ii=> Imperative
+programming, or a style of programming that is only concerned with how to achieve
+results with code.
+
+
+Functional Concepts
+
+The core concepts
+of functional programming are: immutability, purity, data transformation, higher-order
+functions, and recursion.
+
+Immutability:
+To mutate is to change, so to be immutable is to be unchangeable. In a functional program,
+data is immutable. It never changes.
+Instead of changing the original
+data structures, we build changed copies of those data structures and use them
+instead.
